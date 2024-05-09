@@ -1,0 +1,23 @@
+
+body {
+    background-color: #090909;
+
+    font-weight: lighter;
+    padding: 50px;}
+
+    #registrationForm {
+        border: 2px dotted red;
+        padding: 53px;
+        background-color: rgb(244, 220, 192);
+
+    }
+
+    .heading {
+        background: green;
+        color: white;
+        text-align: center;
+        margin-bottom: 0px;
+        font-family: fantasy;
+        border-radius: 10px;
+        border-color: aqua;
+    }
